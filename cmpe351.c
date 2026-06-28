@@ -1,4 +1,4 @@
-/* This is code developed by Abdallah Aboudrari */
+/* This is code developed by HANA SHAIMI */
 
 #include "cmpe351.h"
 #include <stdlib.h>
